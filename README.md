@@ -9,7 +9,7 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/username/test_task.git
+git clone https://github.com/kukazyamra/test_task.git
 cd test_task
 ```
 2. Настроить подключение к БД в файле db.php:
